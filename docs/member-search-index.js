@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"LadderAndSnake","l":"flipDice()"},{"p":"<Unnamed>","c":"LadderAndSnake","l":"LadderAndSnake(int)","u":"%3Cinit%3E(int)"},{"p":"<Unnamed>","c":"LadderAndSnake","l":"numPlayers"},{"p":"<Unnamed>","c":"LadderAndSnake","l":"play()"}];updateSearchResults();

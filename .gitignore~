@@ -1,5 +1,4 @@
 *.class
-.DS_Store
 replit.nix
 bin/
 .replit
