@@ -141,7 +141,8 @@ public class LadderAndSnake {
 			
 				for(int i = 0; i < ladders.length; i++) {
 					if(square[playerNum] == ladders[i][0]) {
-						square[playerNum] = ladders[i][1];             
+						square[playerNum] = ladders[i][1]; 
+						System.out.println("Player " + order[playerNum] + "! You landed on a ladder!");            
 					}
 				}
 				
@@ -149,7 +150,8 @@ public class LadderAndSnake {
 				
 				for(int i = 0; i < snakes.length; i++) {
 					if(square[playerNum] == snakes[i][0]) {
-						square[playerNum] = snakes[i][1];             
+						square[playerNum] = snakes[i][1];
+						System.out.println("Sorry Player " + order[playerNum] + "! Down the snake you go!");             
 					}
 				}
 				
